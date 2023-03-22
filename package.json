@@ -1,0 +1,22 @@
+{
+  "name": "sych-blog-nodejs-clustering",
+  "version": "1.0.0",
+  "description": "Code that demonstrates use of Clustering in Node.js in the following article on Sych's Blog: https://blog.sych.io/improving-performance-and-scalability-with-node-js-clustering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sychhq/sych-blog-nodejs-clustering.git"
+  },
+  "author": "Ryan Haris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sychhq/sych-blog-nodejs-clustering/issues"
+  },
+  "homepage": "https://github.com/sychhq/sych-blog-nodejs-clustering#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
